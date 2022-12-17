@@ -1,4 +1,4 @@
-<img src="https://tryhackme-badges.s3.amazonaws.com/Melami.png" alt="https://tryhackme.com/p/melami">
+<a href="https://tryhackme.com/p/melami"><img src="https://tryhackme-badges.s3.amazonaws.com/Melami.png" alt="Tryhackme"></a>
 
 <h3 align="center">...</h3>
 
