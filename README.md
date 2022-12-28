@@ -4,7 +4,7 @@
 <a href="https://tryhackme.com/p/melami"><img src="https://tryhackme-badges.s3.amazonaws.com/Melami.png" alt="Tryhackme"></a>
 
 
-[Sertifikalarım](https://drive.google.com/drive/folders/11IrRaVns_kEKlfF8IZdSCGF3LZcKM-A3)
+
 <h3 align="center">...</h3>
 
 
