@@ -1,7 +1,6 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mel4mi&label=Profile%20views&color=0e75b6&style=flat" alt="mel4mi" /> </p>
 
 
-<a href="https://tryhackme.com/p/melami"><img src="https://tryhackme-badges.s3.amazonaws.com/Melami.png" alt="Tryhackme_id"></a>
 
 
 
