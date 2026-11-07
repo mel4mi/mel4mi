@@ -1,5 +1,3 @@
-# mel4mi
-
 <!-- markdownlint-disable MD033 -->
 
 <div align="center">
