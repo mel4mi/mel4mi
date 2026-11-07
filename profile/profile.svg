@@ -1,0 +1,93 @@
+<?xml version='1.0' encoding='utf-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="1180" viewBox="0 0 1000 1180" role="img" aria-labelledby="title description">
+  <title id="title">mel4mi GitHub profile</title>
+  <desc id="description">A unified terminal-inspired profile with skills, projects, live GitHub statistics, recent Medium posts, and contribution animation.</desc>
+  <defs>
+    <pattern id="grid" width="28" height="28" patternUnits="userSpaceOnUse">
+      <path d="M28 0H0V28" fill="none" stroke="#131b24" stroke-width="1" />
+    </pattern>
+  </defs>
+  <rect width="1000" height="1180" fill="#0d1117" />
+  <rect width="1000" height="1180" fill="url(#grid)" />
+  <rect x="1" y="1" width="998" height="1178" rx="8" fill="none" stroke="#26313d" stroke-width="2" />
+  <circle cx="25" cy="24" r="5" fill="#ff5f56" />
+  <circle cx="45" cy="24" r="5" fill="#ffbd2e" />
+  <circle cx="65" cy="24" r="5" fill="#27c93f" />
+  <text x="88" y="29" fill="#738091" font-family="Consolas, 'Courier New', monospace" font-size="13" font-weight="400">mel4mi@valhalla: ~</text>
+  <path d="M1 48H999" fill="none" stroke="#26313d" stroke-width="1" />
+  <text x="58" y="95" fill="#00e5a0" font-family="Consolas, 'Courier New', monospace" font-size="15" font-weight="700">$ whoami</text>
+  <text x="54" y="158" fill="#f0f6fc" font-family="Consolas, 'Courier New', monospace" font-size="52" font-weight="700">MEL4MI</text>
+  <text x="58" y="190" fill="#9daab8" font-family="Consolas, 'Courier New', monospace" font-size="14" font-weight="400">HACKER FROM VALHALLA  /  JUNIOR PENETRATION TESTER</text>
+  <text x="58" y="220" fill="#c9d1d9" font-family="Consolas, 'Courier New', monospace" font-size="13" font-weight="400">Curious about systems, security, and the code that connects them.</text>
+  <text x="850" y="203" fill="#00e5a0" font-family="Consolas, 'Courier New', monospace" font-size="12" font-weight="700">[ ONLINE ]</text>
+  <path d="M58 239H942" fill="none" stroke="#00e5a0" stroke-width="2" />
+  <text x="54" y="276" fill="#00e5a0" font-family="Consolas, 'Courier New', monospace" font-size="13" font-weight="700">01</text>
+  <text x="91" y="276" fill="#f0f6fc" font-family="Consolas, 'Courier New', monospace" font-size="13" font-weight="700">TOOLKIT</text>
+  <path d="M54 291H946" fill="none" stroke="#26313d" stroke-width="1" />
+  <rect x="58" y="298" width="64" height="30" rx="4" fill="#111923" stroke="#26313d" />
+  <text x="69" y="318" fill="#c9d1d9" font-family="Consolas, 'Courier New', monospace" font-size="13" font-weight="400">C</text>
+  <rect x="132" y="298" width="76" height="30" rx="4" fill="#111923" stroke="#26313d" />
+  <text x="143" y="318" fill="#c9d1d9" font-family="Consolas, 'Courier New', monospace" font-size="13" font-weight="400">Python</text>
+  <rect x="218" y="298" width="64" height="30" rx="4" fill="#111923" stroke="#26313d" />
+  <text x="229" y="318" fill="#c9d1d9" font-family="Consolas, 'Courier New', monospace" font-size="13" font-weight="400">HTML</text>
+  <rect x="292" y="298" width="64" height="30" rx="4" fill="#111923" stroke="#26313d" />
+  <text x="303" y="318" fill="#c9d1d9" font-family="Consolas, 'Courier New', monospace" font-size="13" font-weight="400">CSS</text>
+  <rect x="366" y="298" width="103" height="30" rx="4" fill="#111923" stroke="#26313d" />
+  <text x="377" y="318" fill="#c9d1d9" font-family="Consolas, 'Courier New', monospace" font-size="13" font-weight="400">Bootstrap</text>
+  <rect x="479" y="298" width="76" height="30" rx="4" fill="#111923" stroke="#26313d" />
+  <text x="490" y="318" fill="#c9d1d9" font-family="Consolas, 'Courier New', monospace" font-size="13" font-weight="400">Django</text>
+  <rect x="565" y="298" width="67" height="30" rx="4" fill="#111923" stroke="#26313d" />
+  <text x="576" y="318" fill="#c9d1d9" font-family="Consolas, 'Courier New', monospace" font-size="13" font-weight="400">Flask</text>
+  <rect x="642" y="298" width="67" height="30" rx="4" fill="#111923" stroke="#26313d" />
+  <text x="653" y="318" fill="#c9d1d9" font-family="Consolas, 'Courier New', monospace" font-size="13" font-weight="400">MySQL</text>
+  <rect x="719" y="298" width="67" height="30" rx="4" fill="#111923" stroke="#26313d" />
+  <text x="730" y="318" fill="#c9d1d9" font-family="Consolas, 'Courier New', monospace" font-size="13" font-weight="400">Linux</text>
+  <text x="54" y="378" fill="#00e5a0" font-family="Consolas, 'Courier New', monospace" font-size="13" font-weight="700">02</text>
+  <text x="91" y="378" fill="#f0f6fc" font-family="Consolas, 'Courier New', monospace" font-size="13" font-weight="700">SELECTED WORK</text>
+  <path d="M54 393H946" fill="none" stroke="#26313d" stroke-width="1" />
+  <a href="https://github.com/mel4mi/HackGurat">
+    <text x="60" y="440" fill="#58a6ff" font-family="Consolas, 'Courier New', monospace" font-size="15" font-weight="700">HackGurat</text>
+    <text x="60" y="466" fill="#9daab8" font-family="Consolas, 'Courier New', monospace" font-size="11" font-weight="400">Cybersecurity learning resources</text>
+  </a>
+  <a href="https://github.com/mel4mi/2025HuntressCTF_Writeups">
+    <text x="370" y="440" fill="#58a6ff" font-family="Consolas, 'Courier New', monospace" font-size="15" font-weight="700">Huntress CTF</text>
+    <text x="370" y="466" fill="#9daab8" font-family="Consolas, 'Courier New', monospace" font-size="11" font-weight="400">2025 competition writeups</text>
+  </a>
+  <a href="https://github.com/mel4mi/ascii-trailer">
+    <text x="680" y="440" fill="#58a6ff" font-family="Consolas, 'Courier New', monospace" font-size="15" font-weight="700">ascii-trailer</text>
+    <text x="680" y="466" fill="#9daab8" font-family="Consolas, 'Courier New', monospace" font-size="11" font-weight="400">ASCII art for the terminal</text>
+  </a>
+  <path d="M350 421L350 478" fill="none" stroke="#26313d" stroke-width="1" />
+  <path d="M660 421L660 478" fill="none" stroke="#26313d" stroke-width="1" />
+  <text x="54" y="522" fill="#00e5a0" font-family="Consolas, 'Courier New', monospace" font-size="13" font-weight="700">03</text>
+  <text x="91" y="522" fill="#f0f6fc" font-family="Consolas, 'Courier New', monospace" font-size="13" font-weight="700">GITHUB ACTIVITY</text>
+  <path d="M54 537H946" fill="none" stroke="#26313d" stroke-width="1" />
+  <text x="66" y="587" fill="#f0f6fc" font-family="Consolas, 'Courier New', monospace" font-size="15" font-weight="700">PROFILE STATS</text>
+  <text x="66" y="615" fill="#9daab8" font-family="Consolas, 'Courier New', monospace" font-size="11" font-weight="400">PREVIEW / WAITING FOR FIRST ACTION RUN</text>
+  <text x="66" y="639" fill="#9daab8" font-family="Consolas, 'Courier New', monospace" font-size="11" font-weight="400">Replaced with live data by GitHub Actions.</text>
+  <text x="526" y="587" fill="#f0f6fc" font-family="Consolas, 'Courier New', monospace" font-size="15" font-weight="700">TOP LANGUAGES</text>
+  <text x="526" y="615" fill="#9daab8" font-family="Consolas, 'Courier New', monospace" font-size="11" font-weight="400">PREVIEW / WAITING FOR FIRST ACTION RUN</text>
+  <text x="526" y="639" fill="#9daab8" font-family="Consolas, 'Courier New', monospace" font-size="11" font-weight="400">Replaced with live data by GitHub Actions.</text>
+  <text x="54" y="741" fill="#00e5a0" font-family="Consolas, 'Courier New', monospace" font-size="13" font-weight="700">04</text>
+  <text x="91" y="741" fill="#f0f6fc" font-family="Consolas, 'Courier New', monospace" font-size="13" font-weight="700">RECENT WRITING</text>
+  <path d="M54 756H946" fill="none" stroke="#26313d" stroke-width="1" />
+  <a href="https://mel4mi.medium.com/hak5-shark-jack-791b753d044c?source=rss-3e404b4c7303------2">
+    <text x="64" y="822" fill="#00e5a0" font-family="Consolas, 'Courier New', monospace" font-size="12" font-weight="700">01  /</text>
+    <text x="112" y="822" fill="#c9d1d9" font-family="Consolas, 'Courier New', monospace" font-size="12" font-weight="400">Hak5 — Shark Jack</text>
+  </a>
+  <a href="https://mel4mi.medium.com/xdr-ger%C3%A7ekten-g%C3%BCvenilir-mi-c9052b370a7b?source=rss-3e404b4c7303------2">
+    <text x="64" y="856" fill="#00e5a0" font-family="Consolas, 'Courier New', monospace" font-size="12" font-weight="700">02  /</text>
+    <text x="112" y="856" fill="#c9d1d9" font-family="Consolas, 'Courier New', monospace" font-size="12" font-weight="400">XDR Gerçekten Güvenilir mi?</text>
+  </a>
+  <a href="https://mel4mi.medium.com/cswsh-cross-site-websocket-hijacking-nedir-ca30c7e6ca4a?source=rss-3e404b4c7303------2">
+    <text x="64" y="890" fill="#00e5a0" font-family="Consolas, 'Courier New', monospace" font-size="12" font-weight="700">03  /</text>
+    <text x="112" y="890" fill="#c9d1d9" font-family="Consolas, 'Courier New', monospace" font-size="12" font-weight="400">CSWSH (Cross-Site WebSocket Hijacking) Nedir ?</text>
+  </a>
+  <text x="54" y="930" fill="#00e5a0" font-family="Consolas, 'Courier New', monospace" font-size="13" font-weight="700">05</text>
+  <text x="91" y="930" fill="#f0f6fc" font-family="Consolas, 'Courier New', monospace" font-size="13" font-weight="700">CONTRIBUTION TRAIL</text>
+  <path d="M54 945H946" fill="none" stroke="#26313d" stroke-width="1" />
+  <text x="70" y="1002" fill="#f0f6fc" font-family="Consolas, 'Courier New', monospace" font-size="15" font-weight="700">CONTRIBUTION ANIMATION</text>
+  <text x="70" y="1030" fill="#9daab8" font-family="Consolas, 'Courier New', monospace" font-size="11" font-weight="400">Generated by GitHub Actions</text>
+  <text x="70" y="1054" fill="#9daab8" font-family="Consolas, 'Courier New', monospace" font-size="11" font-weight="400">Replaced with live data by GitHub Actions.</text>
+  <text x="58" y="1155" fill="#00e5a0" font-family="Consolas, 'Courier New', monospace" font-size="12" font-weight="400">$ echo 'keep building'</text>
+</svg>
